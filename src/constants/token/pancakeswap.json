@@ -21,10 +21,10 @@
     {
       "name": "BridgeSwap Token",
       "symbol": "BRIS",
-      "address": "0x88C945170267BA9b7959E3f07706846890F79924",
+      "address": "0x79De52900178bD90c98E278cC30A635E65B18B1A",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://dex.bridgeswap.app/images/coins/0x88C945170267BA9b7959E3f07706846890F79924.png"
+      "logoURI": "https://dex.bridgeswap.app/images/coins/bris.png"
     },
     {
       "name": "Decentralized USD",
